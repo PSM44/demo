@@ -1,0 +1,5 @@
+com\ipss\demo\controller\HomeController.class
+com\ipss\demo\repository\PracticaRepository.class
+com\ipss\demo\controller\PracticaController.class
+com\ipss\demo\model\Practica.class
+com\ipss\demo\App.class
